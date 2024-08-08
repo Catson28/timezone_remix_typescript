@@ -1,3 +1,7 @@
+# Descricao deste aplicativo
+
+Este tipo de aplicativo, que permite aos usuários consultar a hora atual em diferentes fusos horários e cidades
+
 # Welcome to Remix!
 
 - 📖 [Remix docs](https://remix.run/docs)
