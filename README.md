@@ -1,6 +1,7 @@
 # Descricao deste aplicativo
 
-Este tipo de aplicativo, que permite aos usuários consultar a hora atual em diferentes fusos horários e cidades
+Este tipo de aplicativo, que permite aos usuários consultar a hora atual em diferentes fusos horários e cidades,
+pode ser pesquisado da seguinte forma `Africa/Luanda`
 
 # Welcome to Remix!
 
